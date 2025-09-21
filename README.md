@@ -9,6 +9,8 @@ https://github.com/anirban1195/ml_anomaly_sample/blob/main/div2k/resnet/notebook
 
 https://github.com/anirban1195/ml_anomaly_sample/blob/main/div2k/ae_model/notebook_analysis.ipynb
 
+For GANs see the plots here https://github.com/anirban1195/ml_anomaly_sample/tree/main/div2k/gan/gan_analysis_plots
+
 Wide-ResNet model overall performs the best in anomaly detection (perfect) and segmentation. 
 
 Note: Parts of the code (especially the utils code) was written with Gemini
